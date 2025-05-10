@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706114890037",
+    "project_id": "momease-13667",
+    "storage_bucket": "momease-13667.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706114890037:android:47868b8980991ebdb3447c",
+        "android_client_info": {
+          "package_name": "com.example.momease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIcdt4yFwxbBYAZ_v8dFTeEV7XDzxULs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
