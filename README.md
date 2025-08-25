@@ -41,6 +41,10 @@ This project allowed me to:
   <img src="app/Screenshot_20250701_223110_momease.jpg" width="200" />
   <img src="app/Screenshot_20250701_223128_momease.jpg" width="200" />
   <img src="app/Screenshot_20250701_223131_momease.jpg" width="200" />
+  <img src="app/Screenshot_20250701_223753_momease.jpg" width="200" />
+  <img src="app/Screenshot_20250701_223149_momease.jpg" width="200" />
+  <img src="app/Screenshot_20250701_223830_momease.jpg" width="200" />
+  
 </p>
 
 ---
