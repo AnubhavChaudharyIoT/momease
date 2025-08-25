@@ -1,6 +1,6 @@
 # 🧺 Momease - Laundry Service Mobile Application
 
-![App Banner](app/Screenshot_20250701_223110_momease.jpg)
+![App Banner](app/Screenshot_20250701_223110_mo.jpg)
 
 **Momease** is a mobile application designed to simplify laundry management, making it **efficient, user-friendly, and seamless** for customers.
 
@@ -38,9 +38,9 @@ This project allowed me to:
 ## 📷 Screenshots
 
 <p float="left">
-  <img src="path-to-your-image/screen1.png" width="200" />
-  <img src="path-to-your-image/screen2.png" width="200" />
-  <img src="path-to-your-image/screen3.png" width="200" />
+  <img src="app/Screenshot_20250701_223110_momease.jpg" width="200" />
+  <img src="app/Screenshot_20250701_223128_momease.jpg" width="200" />
+  <img src="app/Screenshot_20250701_223131_momease.jpg" width="200" />
 </p>
 
 ---
